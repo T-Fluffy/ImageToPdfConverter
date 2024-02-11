@@ -4,5 +4,5 @@ This is a simple DOTNET7 console application for converting multiple images to a
 
 ## Packages used
 
-* The PdfSharp Nuget Package, version 6.0.0.
-* The System.Drawing.Common Nuget Package, version 8.0.1.
+* The PdfSharp NuGet Package, version 6.0.0.
+* The System.Drawing.Common NuGet Package, version 8.0.1.
