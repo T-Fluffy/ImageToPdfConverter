@@ -15,3 +15,4 @@ You can simply run :
 -   dotnet run <path_of_the_images_folder> <path_of_the_Destination_pdf_file>
 
 or run the execution ".exe" file in the "\bin\Release\net7.0\win-x64\publish".
+# ImageToPdfConverter
